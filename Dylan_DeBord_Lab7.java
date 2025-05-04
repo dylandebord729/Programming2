@@ -29,6 +29,7 @@ public class Dylan_DeBord_Lab7 {
         }
 
         System.out.println();
+        
 
         // 2. LocalTime Operations
         try {
@@ -43,6 +44,7 @@ public class Dylan_DeBord_Lab7 {
         }
 
         System.out.println();
+        
 
         // 3. LocalDateTime and Formatting
         LocalDateTime now = LocalDateTime.now();
@@ -64,6 +66,7 @@ public class Dylan_DeBord_Lab7 {
         }
 
         System.out.println();
+        
 
         // 4. Duration and Period
         try {
